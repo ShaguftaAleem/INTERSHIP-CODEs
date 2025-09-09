@@ -11,14 +11,15 @@ This project is a simple command-line application in Java that demonstrates how 
 - **Error Checking**: Validates the HTTP response code to ensure the request was successful.
 
 ## InterShip Details
-  Company: CODTECH IT SOLUTIONS
-  Name: Shagufta Aleem
-  INTERN ID: CT04DY371
-  DOMIAN: JAVA Programming
-  Duration: 4 weeks
-  Mentor: NEELA SANTOSH
+  - Company: CODTECH IT SOLUTIONS
+  - Name: Shagufta Aleem
+  - INTERN ID: CT04DY371
+  - DOMIAN: JAVA Programming
+  - Duration: 4 weeks
+  - Mentor: NEELA SANTOSH
 
 ## Contact
 - GitHub: [ShaguftaAleem](https://github.com/ShaguftaAleem)
 - LinkedIn: [https://www.linkedin.com/in/shagufta-aleem-525857320/](https://www.linkedin.com/in/shagufta-aleem-525857320/)
+
 - Email: aleemshagufta31@gmail.com
